@@ -1,15 +1,15 @@
-🔍 Inspecting: google.com
+Inspecting: example.com
 
-📄 WHOIS:
-  Registrar: MarkMonitor Inc.
-  Created: 1997-09-15
-  Expires: 2028-09-14
+WHOIS:
+Registrar: REDACTED FOR PRIVACY
+Created: 1995-08-13T04:00:00Z
+Expires: 2025-08-12T04:00:00Z
 
-🔐 SSL Info:
-  Valid: true
-  Issuer: Google Trust Services
-  Expires in: 58 days
+SSL:
+Valid: true
+Issuer: Let's Encrypt Authority X3
+Expires in: 45 days
 
-📈 SEO Snapshot:
-  Title: Google
-  Meta Description: Search the world's information...
+SEO Snapshot
+Title: Example Domain
+Meta Description: This domain is for use in illustrative examples in documents.
