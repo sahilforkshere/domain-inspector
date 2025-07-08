@@ -25,8 +25,13 @@ A simple command-line tool to inspect a domain’s WHOIS data, SSL certificate i
 
 ---
 
-## ⚙️ Installation
+
+## ⚙️ Installation and Usage
 
 ```bash
 npm install -g domain-inspector
+
+domain-inspector google.com
+
+
 
