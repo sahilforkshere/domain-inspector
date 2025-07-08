@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Domain Inspector 🚀
 
 A simple command-line tool to inspect a domain’s WHOIS data, SSL certificate info, and basic SEO metadata.
@@ -30,9 +29,4 @@ A simple command-line tool to inspect a domain’s WHOIS data, SSL certificate i
 
 ```bash
 npm install -g domain-inspector
-=======
-# domain-inspector
->>>>>>> af4a6d15ca82b05766cc163210d131d5388149a6
-=======
-# domain-inspector
->>>>>>> f22e1f7cec1b86e07c78ca3a21b16960bd1dacfb
+
