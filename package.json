@@ -1,0 +1,24 @@
+{
+  "name": "domain-inspector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "domain-inspector": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "commander": "^14.0.0",
+    "ora": "^8.2.0",
+    "ssl-checker": "^2.0.10",
+    "whois-json": "^2.0.4"
+  }
+}
