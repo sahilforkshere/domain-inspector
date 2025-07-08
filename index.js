@@ -18,7 +18,7 @@ console.log(chalk.blue.bold(`Inspecting: ${domain}\n`));
 (async () => {
   try {
 
-    // below lines will check and log in the console about registrant information of provided domain
+    // below lines will check and log in the console about registrant information of provided domain more
     const whoisData = await whois(domain);
     console.log(chalk.yellow("WHOIS:"));
     console.log(`Registrar: ${whoisData.registrantName || 'N/A'}`);
