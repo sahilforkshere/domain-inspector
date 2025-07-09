@@ -1,8 +1,12 @@
 {
   "name": "domain-inspector",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "A simple command-line tool to inspect a domain’s WHOIS data, SSL certificate info, and basic SEO metadata",
   "main": "index.js",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/sahilforkshere/domain-inspector.git"
+  },
   "bin": {
     "domain-inspector": "./index.js"
   },
